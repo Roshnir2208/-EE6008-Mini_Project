@@ -14,3 +14,4 @@ Friday(17th April)
 1. Finalised the project ( Recycle waste classification) - Entire team approval
 2. Created a document on the Teams channel to add the planned end-to-end workflow - Sanjay
 3. Added end-to-end workflow describing the planned implementation - Roshni
+4. Added main.py - Sanjay
