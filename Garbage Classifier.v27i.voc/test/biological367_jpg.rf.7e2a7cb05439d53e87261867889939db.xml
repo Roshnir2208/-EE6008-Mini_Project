@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>biological367_jpg.rf.7e2a7cb05439d53e87261867889939db.jpg</filename>
+	<path>biological367_jpg.rf.7e2a7cb05439d53e87261867889939db.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

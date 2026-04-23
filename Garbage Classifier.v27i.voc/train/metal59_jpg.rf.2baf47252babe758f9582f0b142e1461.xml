@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>metal59_jpg.rf.2baf47252babe758f9582f0b142e1461.jpg</filename>
+	<path>metal59_jpg.rf.2baf47252babe758f9582f0b142e1461.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

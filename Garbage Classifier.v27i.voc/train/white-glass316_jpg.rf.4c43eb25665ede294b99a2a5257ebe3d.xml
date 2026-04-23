@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>white-glass316_jpg.rf.4c43eb25665ede294b99a2a5257ebe3d.jpg</filename>
+	<path>white-glass316_jpg.rf.4c43eb25665ede294b99a2a5257ebe3d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
