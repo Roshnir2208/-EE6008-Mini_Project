@@ -1,0 +1,41 @@
+<annotation>
+	<folder />
+	<filename>Glass_Datacluster-Trash-134-_jpg.rf.c0c42aa20ba0ca7af9574099e43b9426.jpg</filename>
+	<path>Datacluster-Trash-134-_jpg.rf.c0c42aa20ba0ca7af9574099e43b9426.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>166</xmin>
+			<xmax>245</xmax>
+			<ymin>290</ymin>
+			<ymax>441</ymax>
+		</bndbox>
+		<polygon>
+			<x1>166.71748</x1>
+			<y1>303.489253</y1>
+			<x2>164.933301</x2>
+			<y2>313.777767</y2>
+			<x3>203.525426</x3>
+			<y3>440.09613</y3>
+			<x4>243.534064</x4>
+			<y4>414.48234</y4>
+			<x5>198.72439</x5>
+			<y5>288.547876</y5>
+			<x6>166.71748</x6>
+			<y6>303.489253</y6>
+		</polygon>
+	</object>
+</annotation>

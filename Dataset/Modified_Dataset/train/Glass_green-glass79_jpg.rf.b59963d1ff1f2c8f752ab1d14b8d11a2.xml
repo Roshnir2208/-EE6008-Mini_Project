@@ -1,0 +1,40 @@
+<annotation>
+	<folder />
+	<filename>Glass_green-glass79_jpg.rf.b59963d1ff1f2c8f752ab1d14b8d11a2.jpg</filename>
+	<path>green-glass79_jpg.rf.b59963d1ff1f2c8f752ab1d14b8d11a2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>332</xmin>
+			<xmax>618</xmax>
+			<ymin>15</ymin>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>271</xmax>
+			<ymin>13</ymin>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

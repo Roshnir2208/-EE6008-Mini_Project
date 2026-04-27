@@ -1,0 +1,45 @@
+<annotation>
+	<folder />
+	<filename>Trash_paper428_jpg.rf.f845d8b1158a3535c03409687b3a5b76.jpg</filename>
+	<path>paper428_jpg.rf.f845d8b1158a3535c03409687b3a5b76.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>236</xmin>
+			<xmax>443</xmax>
+			<ymin>135</ymin>
+			<ymax>453</ymax>
+		</bndbox>
+		<polygon>
+			<x1>304.336879</x1>
+			<y1>133.557041</y1>
+			<x2>284.332561</x2>
+			<y2>165.796619</y2>
+			<x3>267.662295</x3>
+			<y3>234.722615</y3>
+			<x4>235.155277</x4>
+			<y4>274.74416</y4>
+			<x5>344.345517</x5>
+			<y5>451.505988</y5>
+			<x6>419.361712</x6>
+			<y6>392.585379</y6>
+			<x7>441.866571</x7>
+			<y7>334.776479</y7>
+			<x8>304.336879</x8>
+			<y8>133.557041</y8>
+		</polygon>
+	</object>
+</annotation>

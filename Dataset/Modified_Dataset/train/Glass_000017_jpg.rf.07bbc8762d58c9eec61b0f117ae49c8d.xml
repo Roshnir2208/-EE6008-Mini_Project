@@ -1,0 +1,47 @@
+<annotation>
+	<folder />
+	<filename>Glass_000017_jpg.rf.07bbc8762d58c9eec61b0f117ae49c8d.jpg</filename>
+	<path>000017_jpg.rf.07bbc8762d58c9eec61b0f117ae49c8d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>95</xmin>
+			<xmax>450</xmax>
+			<ymin>32</ymin>
+			<ymax>633</ymax>
+		</bndbox>
+		<polygon>
+			<x1>420.517567</x1>
+			<y1>591.675686</y1>
+			<x2>448.628691</x2>
+			<y2>552.093937</y2>
+			<x3>316.628627</x3>
+			<y3>226.644004</y3>
+			<x4>154.072992</x4>
+			<y4>30.934247</y4>
+			<x5>94.219481</x5>
+			<y5>52.838822</y5>
+			<x6>118.62853</x6>
+			<y6>293.713078</y6>
+			<x7>243.295258</x7>
+			<y7>626.859463</y7>
+			<x8>339.850861</x8>
+			<y8>632.356928</y8>
+			<x9>420.517567</x9>
+			<y9>591.675686</y9>
+		</polygon>
+	</object>
+</annotation>

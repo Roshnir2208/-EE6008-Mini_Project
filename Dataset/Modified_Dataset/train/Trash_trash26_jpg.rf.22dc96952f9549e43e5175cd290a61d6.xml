@@ -1,0 +1,47 @@
+<annotation>
+	<folder />
+	<filename>Trash_trash26_jpg.rf.22dc96952f9549e43e5175cd290a61d6.jpg</filename>
+	<path>trash26_jpg.rf.22dc96952f9549e43e5175cd290a61d6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>228</xmin>
+			<xmax>532</xmax>
+			<ymin>174</ymin>
+			<ymax>563</ymax>
+		</bndbox>
+		<polygon>
+			<x1>502.904129</x1>
+			<y1>470.337296</y1>
+			<x2>530.588678</x2>
+			<y2>358.432534</y2>
+			<x3>524.337328</x3>
+			<y3>309.62301</y3>
+			<x4>296.609593</x4>
+			<y4>172.718248</y4>
+			<x5>295.610101</x5>
+			<y5>182.242057</y5>
+			<x6>226.951697</x6>
+			<y6>332.242057</y6>
+			<x7>233.649572</x7>
+			<y7>417.361105</y7>
+			<x8>441.283683</x8>
+			<y8>562.003962</y8>
+			<x9>502.904129</x9>
+			<y9>470.337296</y9>
+		</polygon>
+	</object>
+</annotation>

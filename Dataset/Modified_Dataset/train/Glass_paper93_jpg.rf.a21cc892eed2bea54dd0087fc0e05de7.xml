@@ -1,0 +1,43 @@
+<annotation>
+	<folder />
+	<filename>Glass_paper93_jpg.rf.a21cc892eed2bea54dd0087fc0e05de7.jpg</filename>
+	<path>paper93_jpg.rf.a21cc892eed2bea54dd0087fc0e05de7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>560</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+		<polygon>
+			<x1>330.671193</x1>
+			<y1>0</y1>
+			<x2>33.797419</x2>
+			<y2>228.306785</y2>
+			<x3>192.499982</x3>
+			<y3>640</y3>
+			<x4>324.518403</x4>
+			<y4>640</y4>
+			<x5>559.09484</x5>
+			<y5>469.402375</y5>
+			<x6>346.053254</x6>
+			<y6>0</y6>
+			<x7>330.671193</x7>
+			<y7>0</y7>
+		</polygon>
+	</object>
+</annotation>

@@ -1,0 +1,47 @@
+<annotation>
+	<folder />
+	<filename>Plastic_plastic319_jpg.rf.6b3db9d79d9410ddc2223d22bc8af5b4.jpg</filename>
+	<path>plastic319_jpg.rf.6b3db9d79d9410ddc2223d22bc8af5b4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>591</xmax>
+			<ymin>67</ymin>
+			<ymax>558</ymax>
+		</bndbox>
+		<polygon>
+			<x1>69.176149</x1>
+			<y1>183.16546</y1>
+			<x2>106.09312</x2>
+			<y2>230.358631</y2>
+			<x3>120.441103</x3>
+			<y3>352.850674</y3>
+			<x4>502.18126</x4>
+			<y4>556.607177</y4>
+			<x5>589.858963</x5>
+			<y5>293.966848</y5>
+			<x6>199.154579</x6>
+			<y6>66.208435</y6>
+			<x7>142.24094</x7>
+			<y7>123.660995</y7>
+			<x8>82.250936</x8>
+			<y8>116.479435</y8>
+			<x9>69.176149</x9>
+			<y9>183.16546</y9>
+		</polygon>
+	</object>
+</annotation>

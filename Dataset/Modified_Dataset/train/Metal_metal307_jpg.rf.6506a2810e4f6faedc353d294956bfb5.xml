@@ -1,0 +1,47 @@
+<annotation>
+	<folder />
+	<filename>Metal_metal307_jpg.rf.6506a2810e4f6faedc353d294956bfb5.jpg</filename>
+	<path>metal307_jpg.rf.6506a2810e4f6faedc353d294956bfb5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>101</xmin>
+			<xmax>595</xmax>
+			<ymin>1</ymin>
+			<ymax>519</ymax>
+		</bndbox>
+		<polygon>
+			<x1>100.069427</x1>
+			<y1>0</y1>
+			<x2>180.143401</x2>
+			<y2>260.291936</y2>
+			<x3>235.98879</x3>
+			<y3>443.724021</y3>
+			<x4>281.832021</x4>
+			<y4>492.639243</y4>
+			<x5>344.345517</x5>
+			<y5>518.208564</y5>
+			<x6>391.855774</x6>
+			<y6>504.868049</y6>
+			<x7>443.533597</x7>
+			<y7>461.511374</y7>
+			<x8>593.565988</x8>
+			<y8>0</y8>
+			<x9>100.069427</x9>
+			<y9>0</y9>
+		</polygon>
+	</object>
+</annotation>

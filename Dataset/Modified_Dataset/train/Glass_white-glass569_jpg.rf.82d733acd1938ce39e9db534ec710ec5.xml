@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Glass_white-glass569_jpg.rf.82d733acd1938ce39e9db534ec710ec5.jpg</filename>
+	<path>white-glass569_jpg.rf.82d733acd1938ce39e9db534ec710ec5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>170</xmin>
+			<xmax>499</xmax>
+			<ymin>70</ymin>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

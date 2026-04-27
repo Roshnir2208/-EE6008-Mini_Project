@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Paper_cardboard592_jpg.rf.7caba0d961cfa5a31858ea7c6d09361c.jpg</filename>
+	<path>cardboard592_jpg.rf.7caba0d961cfa5a31858ea7c6d09361c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>587</xmax>
+			<ymin>172</ymin>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

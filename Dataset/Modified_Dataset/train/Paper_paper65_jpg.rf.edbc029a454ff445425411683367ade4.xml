@@ -1,0 +1,41 @@
+<annotation>
+	<folder />
+	<filename>Paper_paper65_jpg.rf.edbc029a454ff445425411683367ade4.jpg</filename>
+	<path>paper65_jpg.rf.edbc029a454ff445425411683367ade4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>562</xmax>
+			<ymin>38</ymin>
+			<ymax>626</ymax>
+		</bndbox>
+		<polygon>
+			<x1>26.776957</x1>
+			<y1>249.17484</y1>
+			<x2>25.902761</x2>
+			<y2>248.981476</y2>
+			<x3>131.79963</x3>
+			<y3>624.932686</y3>
+			<x4>561.05897</x4>
+			<y4>418.1547</y4>
+			<x5>444.36711</x5>
+			<y5>36.838305</y5>
+			<x6>26.776957</x6>
+			<y6>249.17484</y6>
+		</polygon>
+	</object>
+</annotation>
