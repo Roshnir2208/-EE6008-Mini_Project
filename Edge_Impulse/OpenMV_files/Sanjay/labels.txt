@@ -1,0 +1,6 @@
+background
+Glass
+Metal
+Paper
+Plastic
+Trash
