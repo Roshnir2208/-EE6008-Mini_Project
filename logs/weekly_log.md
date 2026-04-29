@@ -34,3 +34,4 @@ Week 2
 14. Retrained model with updated dataset and evaluated performance – Sanjay
 15. Discussed alternative approaches for improvement: Switching to stronger models (e.g., SSD / YOLO) Considering classification vs detection trade-offs – Team discussion
 16. Added extra class ( Organic waste) for Edge Impluse Classification - Roshni
+17. Attempted CSV logger via OpenMV IDE using serial logger to pc, but the limitation of lack of SD card, this process could not be done - Roshni
