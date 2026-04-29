@@ -1,0 +1,7 @@
+# Minimal requirements for inference only (without training)
+# Use this if you only want to run inference on deployed models
+
+tensorflow-lite-support==0.4.3
+numpy==1.24.3
+opencv-python==4.8.0.76
+Pillow==10.0.0
