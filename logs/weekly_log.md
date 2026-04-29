@@ -207,6 +207,8 @@ Metal
 ~0.25
 Marginal improvement over prior runs. Background suppression had no meaningful effect since all 144 cells per image carry the object class in whole-image labelling — no true background cells exist to suppress.
 - Siddharth
+
+
 Week 2
 
 1. Collected and explored waste classification datasets for object detection tasks – Sanjay, Sharon
