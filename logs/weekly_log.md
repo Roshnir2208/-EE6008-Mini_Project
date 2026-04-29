@@ -16,6 +16,25 @@ Friday(17th April)
 3. Added end-to-end workflow describing the planned implementation - Roshni
 4. Added main.py - Sanjay
 
+5. Run 1
+Change
+Standard CCE loss, narrow backbone (stem=8, max 64 filters), equal class weights, no tricks
+Epochs
+variable
+INT8 size
+28.8 KB
+val_fg
+~0.40
+General
+~0.30
+Recycl.
+~0.60
+Biodeg.
+~0.90
+Metal
+~0.15
+First baseline. Model immediately collapsed to predicting recyclable/biodegradable for everything. Metal recall ≈0.15 — barely better than chance. Class imbalance collapse confirmed.
+
 Week 2
 
 1. Collected and explored waste classification datasets for object detection tasks – Sanjay, Sharon
