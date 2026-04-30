@@ -2,18 +2,18 @@ from pathlib import Path
 import shutil
 import xml.etree.ElementTree as ET
 
-# CHANGE THIS to your extracted Roboflow Pascal VOC dataset folder
+# CHANGE THIS to the extracted Roboflow Pascal VOC dataset folder
 SOURCE_ROOT = Path(r"C:\Users\sosih\OneDrive\Desktop\Self_Improvement\MEng\Deep_Learning_At_The_Edge\Final_work\-EE6008-Mini_Project\Dataset\Garbage Classifier.v27i.voc")
 
 # Output folder
 DEST_ROOT = Path(r"C:\Users\sosih\OneDrive\Desktop\Self_Improvement\MEng\Deep_Learning_At_The_Edge\Final_work\-EE6008-Mini_Project\Dataset\Modified_Dataset")
 
-# Optional: merge confusing classes
+# merge confusing classes
 MERGE_LABELS = {
     "Garbage": "Trash",
     "garbage": "Trash",
     "trash": "Trash",
-    "Cardboard": "Paper",   # remove this line if you want Cardboard separate
+    "Cardboard": "Paper",   # Trying to merge cardboard and paper
     "cardboard": "Paper",
 }
 
