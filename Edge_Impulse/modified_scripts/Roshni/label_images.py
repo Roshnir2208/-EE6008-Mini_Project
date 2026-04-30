@@ -5,7 +5,7 @@ import numpy as np
 from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2, preprocess_input, decode_predictions
 from tensorflow.keras.preprocessing import image
 
-# Silence the oneDNN and INFO logs you saw earlier
+# Silence the oneDNN and INFO logs 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 
@@ -59,7 +59,7 @@ def organize_dataset(src_path, dest_path):
         category = get_category_from_filename(filename)
         source_type = "Filename"
 
-        # STEP 2: Use AI only if filename provides no clue
+        # STEP 2: Use AI only if the filename provides no clue
         if category is None:
             try:
                 img = image.load_img(file_path, target_size=(224, 224))
