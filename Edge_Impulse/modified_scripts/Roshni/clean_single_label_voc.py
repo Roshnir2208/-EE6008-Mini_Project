@@ -2,7 +2,7 @@ from pathlib import Path
 import shutil
 import xml.etree.ElementTree as ET
 
-# CHANGE THIS to the extracted Roboflow Pascal VOC dataset folder
+# Path to the extracted Roboflow Pascal VOC dataset folder
 SOURCE_ROOT = Path(r"C:\Users\sosih\OneDrive\Desktop\Self_Improvement\MEng\Deep_Learning_At_The_Edge\Final_work\-EE6008-Mini_Project\Dataset\Garbage Classifier.v27i.voc")
 
 # Output folder
