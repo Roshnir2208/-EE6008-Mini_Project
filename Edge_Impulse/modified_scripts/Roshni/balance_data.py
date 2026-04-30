@@ -4,10 +4,9 @@ import random
 from collections import Counter
 
 # --- CONFIGURATION ---
-# Using the path you provided
 destination_dir = r'D:\OneDrive Data\Masters Study\Spring\EE6008 - DEEP LEARNING AT THE EDGE\-EE6008-Mini_Project\Sorted_Garbage_Dataset'
 
-# Set this to the image count of your SMALLEST class to achieve perfect balance
+# Set this to the image count of the SMALLEST class to achieve perfect balance
 TARGET_COUNT = 150 
 
 def get_file_hash(file_path):
